@@ -21,7 +21,7 @@ Right now, I'm especially interested in:
 
 ## 🧰 Projects That Represent Me
 
-### 🧪 Intermediate ML Projects
+### 🧪 Intermediate ML
 
 - 🧠 [**Brain Tumor Classification**](https://github.com/MartinMans/brain_tumor_classification)  
   Binary brain MRI classification using MobileNetV2 and TensorFlow  
