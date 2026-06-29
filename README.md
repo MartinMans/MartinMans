@@ -1,77 +1,92 @@
-# 👋 Hey, I'm Martin
+# Hey, I'm Martin 👋
 
-🎓 Senior CS student at the American University of Beirut (AUB) • 💡 Data Science & Machine Learning  
-💼 Former Data Science Intern • 🔬 Currently researching Linear Kernel Models for text classification
+I'm a Computer Science graduate from the American University of Beirut (AUB) and an incoming MSc Applied Machine Learning student at Imperial College London.
 
----
-
-## 🔍 What I'm Into
-
-I like building Python tools that solve real, personal problems.  
-Sometimes that means tracking expenses, other times parsing Apple Health data or organizing things like shows and games.
-
-Most of my projects are practical — I build them because I need them.  
-Lately, I’ve been especially focused on:
-- Applied Machine Learning
-- Data visualization and analytics
-- Lightweight, local-first tools for personal use
+I enjoy building practical software that either teaches me something new, solves a problem I actually have, or ideally both. My projects range from machine learning research to desktop applications, but they all share the same goal: creating polished software I'd genuinely use myself.
 
 ---
 
-## 🧰 Projects That Represent Me
+# 🚀 Currently Building
 
-### 🧪 Machine Learning
+## Personal Launchpad
 
-- 🧠 [**Brain Tumor Classification**](https://github.com/MartinMans/brain_tumor_classification)  
-  Binary brain MRI classification using MobileNetV2 and TensorFlow  
-  *Tags: Computer Vision · Medical Imaging · Transfer Learning*
+*A Windows productivity launcher built around **activities** instead of simply launching applications.*
 
-- 🔬 **Linear Kernel Research (AUB)** — evaluating the performance of linear SVMs for text classification under constrained settings  
-  *Tags: NLP · Machine Learning Research · Kernel Methods*
+<p align="center">
+<a href="https://github.com/MartinMans/personal-launchpad">
+<img src="images/personal-launchpad.png" width="750">
+</a>
+</p>
 
----
+<p align="center">
+<a href="https://github.com/MartinMans/personal-launchpad"><strong>Repository</strong></a>
+</p>
 
-### 🛠️ Other Projects
+### Highlights
 
-- 📊 **Mono** — a desktop app to track anything: games, shows, comics, you name it  
-- 💵 **Expense Tracker** — simple Python-based budgeting  
-- 🩺 **Apple Health Parser** — personal health data parser and analyzer  
-
----
-
-## 🔧 Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+* Launch applications, files, folders and websites
+* Organize activities into reusable bundles
+* Restore complete desktop layouts
+* Lightweight and local-first
+* Designed to improve everyday workflows
 
 ---
 
-## 📈 GitHub Stats
+# 🧩 Featured Projects
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMans&layout=compact)
+### 🧠 [Brain Tumor Classification](https://github.com/MartinMans/brain_tumor_classification)
 
----
+Binary brain MRI classification using MobileNetV2 and TensorFlow.
 
-## 🧭 Currently
-
-- Conducting ML research at AUB  
-- Applying data visualization and analytical methods from my internship experience  
-- Exploring new ideas in ML and data science  
-- Occasionally uploading tools I actually use
+*Computer Vision · Medical Imaging · Transfer Learning*
 
 ---
 
-## 🤝 Let's Connect
+### 🔬 Linear Kernel Research
 
-Always open to:
-- Talking about ML, data science, or self-tracking
-- Collaborating on small, meaningful projects
+Research project exploring linear kernel methods for text classification under constrained settings.
 
-[LinkedIn →](https://www.linkedin.com/in/martin-mansour1/)
+*Natural Language Processing · Machine Learning*
+
+---
+
+### 📊 [Audit Standardizer](https://github.com/MartinMans/audit_standardizer)
+
+Proof-of-concept application for standardizing procurement audit data into a unified data model and automating audit checks.
+
+---
+
+### 🔈 [BlanketPlusPlus](https://github.com/MartinMans/BlanketPlusPlus)
+
+Ambient sound mixer for Windows featuring presets, tray controls, and custom audio imports.
+
+---
+
+### 🍎 [Apple Health Parser](https://github.com/MartinMans/apple_health_parser)
+
+Python application for parsing and analyzing Apple Health exports.
+
+---
+
+### 💰 [Expense Tracker](https://github.com/MartinMans/expense-tracker)
+
+Desktop budgeting application built to simplify personal expense tracking.
+
+---
+
+# 🌱 Currently
+
+* Building and maintaining Personal Launchpad
+* Conducting machine learning research in NLP
+* Preparing for my MSc in Applied Machine Learning
+* Exploring practical applications of AI in software engineering
+
+---
+
+# 🤝 Connect
+
+If anything here interests you, feel free to reach out.
+
+<a href="https://www.linkedin.com/in/martin-mansour1/">
+<img src="https://img.shields.io/badge/LinkedIn-Martin%20Mansour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
